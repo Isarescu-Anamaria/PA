@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673817360 source:d:\an2\an2_sem1\pa\l8\dfs_recursiv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

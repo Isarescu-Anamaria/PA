@@ -1,0 +1,28 @@
+﻿  TestListSize32.cpp
+C:\Users\ana7i\OneDrive\Desktop\TestListSize32\TestListSize32\TestListSize32.cpp(27,12): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\ana7i\OneDrive\Desktop\TestListSize32\TestListSize32\TestListSize32.cpp(27,12): message : consider using '%llu' in the format string
+C:\Users\ana7i\OneDrive\Desktop\TestListSize32\TestListSize32\TestListSize32.cpp(27,12): message : consider using '%Iu' in the format string
+C:\Users\ana7i\OneDrive\Desktop\TestListSize32\TestListSize32\TestListSize32.cpp(27,12): message : consider using '%I64u' in the format string
+C:\Users\ana7i\OneDrive\Desktop\TestListSize32\TestListSize32\TestListSize32.cpp(28,12): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+C:\Users\ana7i\OneDrive\Desktop\TestListSize32\TestListSize32\TestListSize32.cpp(28,12): message : consider using '%zu' in the format string
+C:\Users\ana7i\OneDrive\Desktop\TestListSize32\TestListSize32\TestListSize32.cpp(31,12): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+C:\Users\ana7i\OneDrive\Desktop\TestListSize32\TestListSize32\TestListSize32.cpp(31,12): message : consider using '%zu' in the format string
+C:\Users\ana7i\OneDrive\Desktop\TestListSize32\TestListSize32\TestListSize32.cpp(34,12): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+C:\Users\ana7i\OneDrive\Desktop\TestListSize32\TestListSize32\TestListSize32.cpp(34,12): message : consider using '%zu' in the format string
+C:\Users\ana7i\OneDrive\Desktop\TestListSize32\TestListSize32\TestListSize32.cpp(37,12): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+C:\Users\ana7i\OneDrive\Desktop\TestListSize32\TestListSize32\TestListSize32.cpp(37,12): message : consider using '%zu' in the format string
+C:\Users\ana7i\OneDrive\Desktop\TestListSize32\TestListSize32\TestListSize32.cpp(37,12): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\ana7i\OneDrive\Desktop\TestListSize32\TestListSize32\TestListSize32.cpp(37,12): message : consider using '%zu' in the format string
+C:\Users\ana7i\OneDrive\Desktop\TestListSize32\TestListSize32\TestListSize32.cpp(37,12): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 3 has type 'size_t'
+C:\Users\ana7i\OneDrive\Desktop\TestListSize32\TestListSize32\TestListSize32.cpp(37,12): message : consider using '%zu' in the format string
+C:\Users\ana7i\OneDrive\Desktop\TestListSize32\TestListSize32\TestListSize32.cpp(38,12): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+C:\Users\ana7i\OneDrive\Desktop\TestListSize32\TestListSize32\TestListSize32.cpp(38,12): message : consider using '%zu' in the format string
+C:\Users\ana7i\OneDrive\Desktop\TestListSize32\TestListSize32\TestListSize32.cpp(39,12): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+C:\Users\ana7i\OneDrive\Desktop\TestListSize32\TestListSize32\TestListSize32.cpp(39,12): message : consider using '%zu' in the format string
+C:\Users\ana7i\OneDrive\Desktop\TestListSize32\TestListSize32\TestListSize32.cpp(40,12): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+C:\Users\ana7i\OneDrive\Desktop\TestListSize32\TestListSize32\TestListSize32.cpp(40,12): message : consider using '%zu' in the format string
+  Generating code
+  Compiler switch has changed, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TestListSize32.vcxproj -> C:\Users\ana7i\OneDrive\Desktop\TestListSize32\x64\Release\TestListSize32.exe

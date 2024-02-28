@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672584445 source:d:\an2\an2_sem1\pa\l3\coada_vector\main.c
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+
